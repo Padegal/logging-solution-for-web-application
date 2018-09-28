@@ -1,0 +1,1 @@
+●	Logging solutions for web applications is a project where you can generate log files of all the actions performed on a website. We created a plug-in for this and this can be used on a website to generate log 
